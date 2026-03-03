@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698506423 source:d:\embeddedc\tasks\playame\main.c
+	<stdio.h>
+	<stdlib.h>
+
